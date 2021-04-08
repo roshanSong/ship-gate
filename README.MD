@@ -6,6 +6,8 @@ This is a  high Performance,Responsive API Gateway based on SpringWebFlux and Ne
 
 Now it only supports HTTP protocol forward,it is for learning communication only.
 
+《如何设计一个高性能网关？》https://mp.weixin.qq.com/s/U7HbPVJdqZ7dqTmP1JqlOw  架构之美
+
 # Project structure
 
 - Ship-admin: gateway management console,supports config route rule etc.
